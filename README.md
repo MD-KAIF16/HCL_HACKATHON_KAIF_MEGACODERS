@@ -10,13 +10,6 @@ Modern Hotel Booking Platform built with **ASP.NET Core Web API + Angular**, fea
 
 ---
 
-## 🔗 Live Links
-
-- 🌐 **Frontend:** https://your-frontend-link.com  
-- ⚙️ **Backend API:** https://your-backend-link.com  
-- 📂 **Repository:** https://github.com/MD-KAIF16/HCL_HACKATHON_KAIF_MEGACODERS  
-
----
 
 ## ✨ Features
 
